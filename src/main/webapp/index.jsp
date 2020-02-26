@@ -3,11 +3,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hello Java EE Continuous Delivery!</title>
+        <title>DEVOPS!</title>
     </head>
     <body>
-        <h1>Demo Project from Devops pepoles</h1>
-        <h1>Good ofternon for DEVOPS.....</h1>
+        <h1> Project from Devops pepoles</h1>
+        <h1>Good ofternon  DEVOPS.....</h1>
 
 
 <table width="40%" bgcolor="yellow" align="center" border="1">
